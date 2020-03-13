@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phahzaesu.davidloibl.de/sitemap.xml
